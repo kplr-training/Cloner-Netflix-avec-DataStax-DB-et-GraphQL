@@ -1,12 +1,12 @@
 <!--- STARTEXCLUDE --->
-# 🎓 Cloner Netflix avec Astra DB et GraphQL
+# 🎓 Cloner Netflix avec DataStax DB et GraphQL
 [![KPLR](https://user-images.githubusercontent.com/123748165/226143592-ec837bc1-7879-41d9-816b-94ede52a7b82.png)](https://www.kplr.fr/qui-sommes-nous)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 [![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 
 
-Un simple clone de page d'accueil **ReactJS** Netflix exécuté sur **Astra DB** qui exploite l'API **GraphQL** avec *pagination* et *défilement infini*.
+Un simple clone de page d'accueil **ReactJS** Netflix exécuté sur **DataStax DB** qui exploite l'API **GraphQL** avec *pagination* et *défilement infini*.
 <!--- ENDEXCLUDE --->
 
 Voir la présentation vidéo [Video Walkthrough](https://imgur.com/3ns3UJB) de ce que vous allez construire !
