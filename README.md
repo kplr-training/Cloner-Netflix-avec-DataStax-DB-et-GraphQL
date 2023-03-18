@@ -38,14 +38,14 @@ Peu importe que vous rejoigniez notre atelier en direct ou que vous préfériez 
 5. [Récupérer les genres avec GraphQL](#5-retrieve-genres-with-graphql)
 6. [Créer une table pour les films](#6-create-a-table-for-movies)
 7. [Insérer quelques films](#7-insérer-quelques-films)
-8. [Récupérer des films : pagination] (#8-récupérer-films-pagination)
+8. [Récupérer des films : pagination](#8-récupérer-films-pagination)
 
 ### Partie 2 – Créer et déployer le front-end
 
 1. [Déployer l'interface graphique squelettique sur Netlify](#1-deploy-skeletal-gui-to-netlify)
 2. [Lancez Gitpod depuis VOTRE dépôt Github](#2-launch-gitpod-from-your-github-repo)
 3. [Configurer et utiliser `astra-cli`](#3-set-up-and-use-astra-cli)
-4. [Fonctions sans serveur] (#4-fonctions sans serveur)
+4. [Fonctions sans serveur](#4-fonctions sans serveur)
 5. [Récupération depuis le front-end](#5-fetching-from-the-front-end)
 6. [Installer la CLI Netlify](#6-install-the-netlify-cli)
 7. [Fournir les paramètres de connexion à la base de données](#7-provide-db-connection-parameters)
