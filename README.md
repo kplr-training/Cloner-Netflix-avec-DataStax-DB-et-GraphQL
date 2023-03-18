@@ -1,7 +1,10 @@
 <!--- STARTEXCLUDE --->
 # 🎓 Cloner Netflix avec Astra DB et GraphQL
+[![KPLR](https://user-images.githubusercontent.com/123748165/226143592-ec837bc1-7879-41d9-816b-94ede52a7b82.png)](https://www.kplr.fr/qui-sommes-nous)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 [![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+
+
 
 Un simple clone de page d'accueil **ReactJS** Netflix exécuté sur **Astra DB** qui exploite l'API **GraphQL** avec *pagination* et *défilement infini*.
 <!--- ENDEXCLUDE --->
@@ -45,7 +48,7 @@ Peu importe que vous rejoigniez notre atelier en direct ou que vous préfériez 
 1. [Déployer l'interface graphique squelettique sur Netlify](#1-deploy-skeletal-gui-to-netlify)
 2. [Lancez Gitpod depuis VOTRE dépôt Github](#2-launch-gitpod-from-your-github-repo)
 3. [Configurer et utiliser `astra-cli`](#3-set-up-and-use-astra-cli)
-4. [Fonctions sans serveur](#4-fonctions sans serveur)
+4. [Fonctions sans serveur](#4-fonctions-sans-serveur)
 5. [Récupération depuis le front-end](#5-fetching-from-the-front-end)
 6. [Installer la CLI Netlify](#6-install-the-netlify-cli)
 7. [Fournir les paramètres de connexion à la base de données](#7-provide-db-connection-parameters)
