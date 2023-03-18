@@ -25,4 +25,8 @@ Le statut passera de "En attente" à "Actif" lorsque la base de données sera pr
 Le statut passera de "En attente" à "Actif" lorsque la base de données sera prête, cela ne prend généralement que 2 à 3 minutes.
 <br>
 ![image](https://user-images.githubusercontent.com/123748165/226145398-c6daedfc-f325-4f87-9d4b-cfdb998bf367.png)
+<br>
+4-**Félicitation**,Vous avez créé votre base de donnée.
+<br>
+![image](https://user-images.githubusercontent.com/123748165/226145428-afeadc0f-e80c-4b1c-aa23-d115364dee12.png)
 
