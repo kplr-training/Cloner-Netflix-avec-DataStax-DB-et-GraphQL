@@ -24,15 +24,6 @@ Voir la présentation vidéo [Video Walkthrough](https://imgur.com/3ns3UJB) de c
 * Tirez parti de Netlify et de DataStax Astra DB.
 * Déployez le clone Netflix en production avec Netlify.
 
-## Matériel pour la session
-
-Peu importe que vous rejoigniez notre atelier en direct ou que vous préfériez le faire à votre rythme, nous avons ce qu'il vous faut. Dans ce référentiel, vous trouverez tout ce dont vous avez besoin pour cet atelier :
-
-- [Slide deck](slides/slides.pdf)
-- [Discord chat](https://bit.ly/cassandra-workshop)
-- ["cassandra" sur StackOverflow](https://stackoverflow.com/questions/tagged/cassandra)
-- ["cassandra" sur DBA StackExchange](https://dba.stackexchange.com/questions/tagged/cassandra)
-
 # Commençons
 
 ## Table des matières
