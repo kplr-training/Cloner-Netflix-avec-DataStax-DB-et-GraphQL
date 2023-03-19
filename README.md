@@ -11,7 +11,11 @@ Un simple clone de page d'accueil **ReactJS** Netflix exécuté sur **DataStax D
 
 Voir la présentation vidéo [Video Walkthrough](https://imgur.com/3ns3UJB) de ce que vous allez construire !
 
+![🎓Cloner Netflix avec Datastax et GraphQL](https://user-images.githubusercontent.com/123748165/226187624-3012341b-d74a-41a5-8a5b-181121091157.png)
+
+
 ![image](https://github.com/yahia-kplr/workshop-graphql-netflix/blob/master/images/ui.png)
+
 
 ## 🎯  Objectifs
 * Créez et exécutez un clone Netflix.
