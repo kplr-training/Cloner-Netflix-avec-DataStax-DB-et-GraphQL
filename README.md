@@ -55,5 +55,3 @@ Peu importe que vous rejoigniez notre atelier en direct ou que vous préfériez 
 8. [Exécuter l'application en mode dev](#8-run-the-app-in-dev-mode)
 9. [Connect to your Netlify site](#9-connect-to-your-netlify-site)
 10. [Déployer en production !](#10-deploy-in-production)
-
-[**🎓 Terminez le devoir, recevez votre badge !**](#devoirs)
