@@ -34,7 +34,7 @@ Peu importe que vous rejoigniez notre atelier en direct ou que vous préfériez 
 ## Table des matières
 
 ### Partie I - Configuration de la base de données et ingestion de données
-1. [Créer une instance de base de données Astra](#1-login-or-register-to-astradb-and-create-database)
+1. [Créer une instance de base de données DataStax](#1-login-or-register-to-astradb-and-create-database)
 2. [Créer un jeton de sécurité](#2-create-a-security-token)
 3. [Créer une table pour les genres avec GraphQL](#3-create-table-for-genres-with-graphql)
 4. [Insérer les données de genre avec GraphQL](#4-insert-genre-data-with-graphql)
