@@ -1,6 +1,6 @@
 # 3. Créer un tableau pour les genres avec GraphQL
 
-✅ **Étape 3a :** Ouvrez **GraphQL Playground** :
+✅ **Étape 3 :** Ouvrez **GraphQL Playground** :
 
 0. Assurez-vous d'être connecté à votre compte [DataStax](https://astra.datastax.com)
 1. Cliquez sur la base de données **`workshops`** à gauche (développez la liste si nécessaire).
