@@ -85,4 +85,19 @@ mutation insertGenres {
 
 4-Puis cliquez sur la grosse flèche "play button" au centre pour exécuter la mutation
 
-![image](https://user-images.githubusercontent.com/123748165/227215390-7c0ef514-c98b-4d35-9d2c-1a4671ba58c7.png)
+![image](https://user-images.githubusercontent.com/123748165/227216035-68648861-140d-4641-a424-1ba306828e43.png)
+
+5-Dans GraphQL Playground, ne changez pas l'onglet du terrain de jeu (restez sur le second : `graphql`, ouais) exécutez la requête suivante pour lire la colonne "valeur" de toutes les lignes du tableau :
+
+```yaml
+query getAllGenres {
+    reference_list (value: {label:"genre"}) {
+      values {
+      	value
+      }
+    }
+}
+
+![image](https://user-images.githubusercontent.com/123748165/227217240-ce7bdf5e-c4d2-4ff9-9b5f-fef70fb98af3.png)
+
+```
