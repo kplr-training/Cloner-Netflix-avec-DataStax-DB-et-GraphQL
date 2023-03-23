@@ -28,17 +28,17 @@
 
 7-Copiez la **mutation** suivante dans le panneau de gauche
 
-``` yaml
+```yaml
 mutation createReferenceList {
-  reference_list : createTable(
+  reference_list: createTable(
     keyspaceName:"netflix",
-    tableName:"liste_de_références",
-    ifNotExists : vrai
-    partitionKeys : [
-      { nom : "étiquette", type : {de base : TEXT} }
+    tableName:"reference_list",
+    ifNotExists:true
+    partitionKeys: [ 
+      { name: "label", type: {basic: TEXT} }
     ]
-    clusteringKeys : [
-      { nom : "valeur", type : {basic : TEXT}, ordre : "ASC" }
+    clusteringKeys: [
+      { name: "value", type: {basic: TEXT}, order: "ASC" }
     ]
   )
 }
