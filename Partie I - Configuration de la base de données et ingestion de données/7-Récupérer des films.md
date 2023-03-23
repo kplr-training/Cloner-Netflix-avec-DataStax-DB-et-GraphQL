@@ -1,4 +1,4 @@
-1-Dans `GraphQL Playground`, ne changez pas l'onglet du terrain de jeu (restez sur le deuxième onglet, `graphql`, ouais) répertoriez les valeurs du tableau avec la commande suivante :
+1-Dans `GraphQL Playground`, ne changez pas l'onglet du terrain de jeu (restez sur le deuxième onglet, `graphql`, ouais) récupérez les valeurs du tableau avec la commande suivante :
 
 ```yaml
 query getMovieAction {
