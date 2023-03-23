@@ -17,7 +17,7 @@
 
 ![image](https://user-images.githubusercontent.com/123748165/226293938-dadc4b28-5231-4059-8065-b9fce5d37bbf.png)
 
-5.Cliquez sur l'onglet **`GraphQL Playground`** , Localisez le lien vers votre GraphQL Playground dans le texte
+5.Cliquez sur l'onglet **`GraphQL Playground`** ,
 
 ![image](https://user-images.githubusercontent.com/123748165/226340102-9a1a9279-d84f-4e72-bb6a-48f290216fc6.png)
 
