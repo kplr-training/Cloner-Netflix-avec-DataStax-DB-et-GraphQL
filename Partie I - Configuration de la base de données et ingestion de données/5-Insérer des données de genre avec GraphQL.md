@@ -12,76 +12,77 @@
 
 ✅Copiez la mutation suivante dans le panneau de gauche :
 
-``` yaml
+```yaml
 mutation insertGenres {
-  action : insertreference_list(valeur : {étiquette :"genre", valeur :"Action"}) {
-    valeur{valeur}
+  action: insertreference_list(value: {label:"genre", value:"Action"}) {
+    value{value}
   }
   anime: insertreference_list(value: {label:"genre", value:"Anime"}) {
-     valeur{valeur}
+     value{value}
   }
-  prix : insertreference_list(value : {label:"genre", value:"Award-Winning"}) {
-     valeur{valeur}
+  award: insertreference_list(value: {label:"genre", value:"Award-Winning"}) {
+     value{value}
   }
-  enfants : insertreference_list(value : {label :"genre", value:"Enfants et famille"}) {
-     valeur{valeur}
+  children: insertreference_list(value: {label:"genre", value:"Children & Family"}) {
+     value{value}
   }
-  classique : insertreference_list(value : {label :"genre", value:"Classic"}) {
-     valeur{valeur}
+  classic: insertreference_list(value: {label:"genre", value:"Classic"}) {
+     value{value}
+  } 
+  comedies: insertreference_list(value: {label:"genre", value:"Comedies"}) {
+     value{value}
   }
-  comédies : insertreference_list(value : {label :"genre", value:"Comédies"}) {
-     valeur{valeur}
-  }
-  crime : insertreference_list(value : {label:"genre", value:"Crime"}) {
-     valeur{valeur}
-  }
-  culte : insertreference_list(value : {label :"genre", value:"Cult"}) {
-     valeur{valeur}
+  crime: insertreference_list(value: {label:"genre", value:"Crime"}) {
+     value{value}
+  } 
+  cult: insertreference_list(value: {label:"genre", value:"Cult"}) {
+     value{value}
   }  
-  documentaires : insertreference_list(value : {label :"genre", value:"Documentaries"}) {
-     valeur{valeur}
+  documentaries: insertreference_list(value: {label:"genre", value:"Documentaries"}) {
+     value{value}
   }
-  drame : insertreference_list(value : {label:"genre", value:"Dramas"}) {
-     valeur{valeur}
+  drama: insertreference_list(value: {label:"genre", value:"Dramas"}) {
+     value{value}
   }
-  fantaisie : insertreference_list(value : {label :"genre", value:"Fantasy"}) {
-     valeur{valeur}
+  fantasy: insertreference_list(value: {label:"genre", value:"Fantasy"}) {
+     value{value}
   }
-  français : insertreference_list(valeur : {étiquette :"genre", valeur :"français"}) {
-     valeur{valeur}
+  french: insertreference_list(value: {label:"genre", value:"French"}) {
+     value{value}
   }
-  horreur : insertreference_list(value : {label :"genre", value:"Horror"}) {
-     valeur{valeur}
+  horror: insertreference_list(value: {label:"genre", value:"Horror"}) {
+     value{value}
   }
-  indépendant : insertreference_list(valeur : {étiquette :"genre", valeur :"Indépendant"}) {
-     valeur{valeur}
+  independent: insertreference_list(value: {label:"genre", value:"Independent"}) {
+     value{value}
   }
-  international : insertreference_list(valeur : {étiquette :"genre", valeur :"International"}) {
-     valeur{valeur}
+  international: insertreference_list(value: {label:"genre", value:"International"}) {
+     value{value}
+  } 
+  italian: insertreference_list(value: {label:"genre", value:"Italian"}) {
+     value{value}
+  } 
+  musicmusicals: insertreference_list(value: {label:"genre", value:"Music & Musicals"}) {
+     value{value}
+  } 
+  realitytv: insertreference_list(value: {label:"genre", value:"Reality TV"}) {
+     value{value}
+  } 
+  romance: insertreference_list(value: {label:"genre", value:"Romance"}) {
+     value{value}
   }
-  italien : insertreference_list(valeur : {étiquette :"genre", valeur :"italien"}) {
-     valeur{valeur}
+  scifi: insertreference_list(value: {label:"genre", value:"Sci-Fi"}) {
+     value{value}
   }
-  musicmusicals : insertreference_list(value : {label :"genre", value:"Musique et comédies musicales"}) {
-     valeur{valeur}
-  }
-  téléréalité : insertreference_list(value : {label :"genre", value:"Reality TV"}) {
-     valeur{valeur}
-  }
-  romance : insertreference_list(value : {label :"genre", value:"Romance"}) {
-     valeur{valeur}
-  }
-  scifi : insertreference_list(value : {label :"genre", value:"Sci-Fi"}) {
-     valeur{valeur}
-  }
-  thriller : insertreference_list(value : {label :"genre", value:"Thriller"}) {
-     valeur{valeur}
-  }
-  émission de télévision : insertreference_list(value : {label :"genre", value:"TV Show"}) {
-     valeur{valeur}
-  }
+  thriller: insertreference_list(value: {label:"genre", value:"Thriller"}) {
+     value{value}
+  } 
+  tvshow: insertreference_list(value: {label:"genre", value:"TV Show"}) {
+     value{value}
+  } 
 }
 ```
+
 
 4-Puis cliquez sur la grosse flèche "play button" au centre pour exécuter la mutation
 
