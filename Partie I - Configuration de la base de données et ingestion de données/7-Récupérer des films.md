@@ -70,3 +70,5 @@ query getMovieActionNextPage {
 
 ![image](https://user-images.githubusercontent.com/123748165/227242214-0bfc1fd3-9ea6-4d58-b4d5-2551bc0bd632.png)
 
+Si vous essayez de coller la valeur _nouvellement obtenue_ pour `pageState` et relancez la requête, vous obtenez une liste vide et un `pageState` nul en retour. Oh ! Vous aviez déjà fait défiler toutes les lignes :
+_c'est ainsi que la pagination signale la fin de la liste complète des résultats._
