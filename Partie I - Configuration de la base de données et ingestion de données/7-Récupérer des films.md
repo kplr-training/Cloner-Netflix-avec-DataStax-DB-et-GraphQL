@@ -20,7 +20,7 @@ query getMovieAction {
 ![image](https://user-images.githubusercontent.com/123748165/227240709-4e6c7637-8d6b-49b1-a865-8b550577d55d.png)
 
 2- Sur un petit jeu de données, vous pouvez récupérer toutes les valeurs du tableau en une seule fois ;
->Exécutez une requête similaire à la précédente, mais cette fois en demandant une _taille de page de 2_ :
+>Exécutez une requête similaire à la précédente, mais cette fois en demandant un _PageSize de 2_ :
 
 ```yaml
 query getMovieActionPag1 {
