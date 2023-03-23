@@ -23,7 +23,7 @@
 
 ✅ **Étape 5 :** Dans GraphQL Playground, créez la table `reference_list` :
 
-6.Integrez votre `TOKEN`.
+6.Allez dans `HTTP HEADER`,Integrez votre `TOKEN` dans `x-cassandra-token`.
 
 ![image](https://user-images.githubusercontent.com/123748165/227164820-20813aa8-5662-469c-a7b6-c88d490769a0.png)
 
