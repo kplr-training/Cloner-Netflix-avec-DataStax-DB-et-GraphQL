@@ -12,19 +12,19 @@
 
 [![Déployer sur Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/)
 
-2- Import from github
+2- Import from **`github`**
 
 ![image](https://user-images.githubusercontent.com/123748165/227253744-711867ce-d50f-4e63-91a0-94754778ee6d.png)
 
-3- github
+3- **`github`**
 
 ![image](https://user-images.githubusercontent.com/123748165/227269536-7c6302d1-1334-47bd-900a-75d56892d83d.png)
 
-4- selection le dossier github que vous avez deja créé.
+4- selection le dossier `github` que vous avez deja créé.
 
 ![image](https://user-images.githubusercontent.com/123748165/227269909-3d8eff9b-7636-4dfa-ae67-e98fa5475f42.png)
 
-5- Deploy site.
+5- **`Deploy site`**.
 
 ![image](https://user-images.githubusercontent.com/123748165/227272042-9873ec78-dc7e-4b0e-96ca-37466428e971.png)
 
