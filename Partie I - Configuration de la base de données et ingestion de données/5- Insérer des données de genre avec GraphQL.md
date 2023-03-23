@@ -98,6 +98,7 @@ query getAllGenres {
     }
 }
 
+```
+
 ![image](https://user-images.githubusercontent.com/123748165/227217240-ce7bdf5e-c4d2-4ff9-9b5f-fef70fb98af3.png)
 
-```
