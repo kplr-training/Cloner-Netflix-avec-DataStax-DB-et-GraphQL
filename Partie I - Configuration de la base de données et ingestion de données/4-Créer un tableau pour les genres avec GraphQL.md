@@ -20,3 +20,28 @@
 5.Cliquez sur l'onglet **`GraphQL Playground`** , Localisez le lien vers votre GraphQL Playground dans le texte
 
 ![image](https://user-images.githubusercontent.com/123748165/226340102-9a1a9279-d84f-4e72-bb6a-48f290216fc6.png)
+
+✅ **Étape 5 :** Dans GraphQL Playground, créez la table `reference_list` :
+
+6.Integrez votre `TOKEN`.
+
+![image](https://user-images.githubusercontent.com/123748165/227164820-20813aa8-5662-469c-a7b6-c88d490769a0.png)
+
+
+2-Copiez la **mutation** suivante dans le panneau de gauche
+
+``` yaml
+mutation createReferenceList {
+  reference_list : createTable(
+    keyspaceName:"netflix",
+    tableName:"liste_de_références",
+    ifNotExists : vrai
+    partitionKeys : [
+      { nom : "étiquette", type : {de base : TEXT} }
+    ]
+    clusteringKeys : [
+      { nom : "valeur", type : {basic : TEXT}, ordre : "ASC" }
+    ]
+  )
+}
+```
