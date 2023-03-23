@@ -25,7 +25,7 @@ La pagination en GraphQL fait référence à la méthode de récupération de do
 
 En utilisant la pagination, les clients peuvent spécifier la quantité de données à récupérer et l'offset de départ dans la séquence de données. Par exemple, un client peut demander les 10 premiers éléments, puis les 10 éléments suivants, et ainsi de suite, jusqu'à ce qu'il ait récupéré toutes les données nécessaires.
 >Sur un petit jeu de données, vous pouvez récupérer toutes les valeurs du tableau en une seule fois ;
->
+
 >Exécutez une requête similaire à la précédente, mais cette fois en demandant un _PageSize de 2_ :
 
 ```yaml
