@@ -1,4 +1,4 @@
-## 1. Connectez-vous ou inscrivez-vous à AstraDB et créez une base de données
+## 1. Connectez-vous ou inscrivez-vous à DataStax et créez une base de données
 
 _**`DataStax`** est le moyen le plus simple d'exécuter Cassandra sans aucune opération - appuyez simplement sur le bouton et obtenez votre cluster. Aucune carte de crédit requise, 40 millions d'opérations de lecture/écriture et environ 80 Go de stockage par mois gratuitement - suffisant pour exécuter de petites charges de travail de production. Si vous utilisez vos crédits, les bases de données s'arrêteront, sans frais, et vous aurez la possibilité de passer à un niveau supérieur._
 
