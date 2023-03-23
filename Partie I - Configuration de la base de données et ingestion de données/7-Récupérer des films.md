@@ -19,7 +19,7 @@ query getMovieAction {
 
 ![image](https://user-images.githubusercontent.com/123748165/227240709-4e6c7637-8d6b-49b1-a865-8b550577d55d.png)
 
-2-Activer la pagination :** Sur un petit jeu de données, vous pouvez récupérer toutes les valeurs du tableau en une seule fois ;
+2- Sur un petit jeu de données, vous pouvez récupérer toutes les valeurs du tableau en une seule fois ;
 >mais en général, pour des raisons de performances ou de réseau, vous aurez besoin d'une pagination. Exécutez une requête similaire à la précédente, 
 >mais cette fois en demandant une _taille de page de 2_ :
 
