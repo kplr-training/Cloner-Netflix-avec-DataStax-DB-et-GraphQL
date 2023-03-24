@@ -25,15 +25,6 @@ meilleure expérience. Mais il est maintenant temps de passer à la phase de dé
 
 3-Arrêtez l'exécution du développement avec `Ctrl-C`.
 
-4- Sauvegardez vos pmodification dans `Github`.
-
-
-![image](https://user-images.githubusercontent.com/123748165/227354568-375f1bdb-3ce9-4b8f-bc4a-70547a2bab04.png)
-
-![image](https://user-images.githubusercontent.com/123748165/227354694-923394ab-5686-48a3-afbc-f4234bdc0ddf.png)
-
-![image](https://user-images.githubusercontent.com/123748165/227354854-47c5e3f6-5487-498c-ba0b-ace691b18693.png)
-
 4-Authentification avec Netlify : exécutez
 
 ```
