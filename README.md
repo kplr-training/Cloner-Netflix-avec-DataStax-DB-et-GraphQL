@@ -21,7 +21,7 @@ Voir la présentation vidéo [Resultat Final](https://glittery-twilight-7ada8e.n
 * Tirez parti de Netlify et de DataStax Astra DB.
 * Déployez le clone Netflix en production avec Netlify.
 
-<details><summary>**C'est quoi Graphql**</summary>
+<details><summary>C'est quoi Graphql</summary>
 GraphQL est un langage de requête de données open source développé par Facebook en 2012 pour simplifier la communication entre les applications frontales et les serveurs de données. Contrairement aux API REST traditionnelles, GraphQL permet aux clients de spécifier précisément les données dont ils ont besoin, ce qui évite le surchargement de l'API avec des requêtes multiples et redondantes.
 
 Avec GraphQL, les clients peuvent interroger une API pour récupérer uniquement les données nécessaires à leur application, ce qui peut réduire considérablement la quantité de données transférées et améliorer les performances. GraphQL fournit également une documentation complète pour l'API, ce qui facilite la compréhension et l'utilisation de l'API par les développeurs.
