@@ -10,9 +10,11 @@
 
 [![Déployer sur Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/)
 
-<details><summary>Show me!</summary>
-![image](https://user-images.githubusercontent.com/123748165/227253357-0977dc8c-6716-4a9d-a95d-d57d517fd68a.png)
-</details>
+
+ 
+![image](https://user-images.githubusercontent.com/123748165/227457265-5d72b845-a99a-4a4f-a188-0fc51589d828.png)
+
+
 
 
 2- Import from **`github`**
