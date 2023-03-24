@@ -8,9 +8,12 @@
 
 **Remarque** : de préférence Ctrl-clic pour un nouvel onglet.
 
-![image](https://user-images.githubusercontent.com/123748165/227253357-0977dc8c-6716-4a9d-a95d-d57d517fd68a.png)
-
 [![Déployer sur Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/)
+
+<details><summary>Show me!</summary>
+![image](https://user-images.githubusercontent.com/123748165/227253357-0977dc8c-6716-4a9d-a95d-d57d517fd68a.png)
+</details>
+
 
 2- Import from **`github`**
 
