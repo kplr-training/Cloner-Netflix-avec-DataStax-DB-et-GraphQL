@@ -1,6 +1,6 @@
 
 
-✅ **Étape 1a : Bouton Netlify :** 
+1- Bouton Netlify :
 
 >Cliquez sur le bouton suivant pour déployer l'interface graphique simplifiée sur Netlify.
 >Il n'y a pas de données car il n'y a pas (encore) de base de données connectée à l'application ;
