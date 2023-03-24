@@ -74,7 +74,8 @@ netlify build
 netlify deploy --prod
 ```
 
-![image](https://user-images.githubusercontent.com/123748165/227455433-02941926-4d7d-441d-98ed-ea5ad078acc6.png)
+![image](https://user-images.githubusercontent.com/123748165/227455527-9b2fece2-5c83-4c8d-a0ed-b6cb5691e234.png)
+
 
 8-Visitez votre site.
 
